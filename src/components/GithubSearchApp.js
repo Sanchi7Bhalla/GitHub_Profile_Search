@@ -33,7 +33,7 @@ let GithubSearchApp = () => {
             <div className="container mt-3">
                 <div className="row">
                     <div className="col">
-                        <h4 className="d-flex justify-content-center align-items-center">made by- SANCHI BHALLA</h4>
+                        <h4 className="d-flex justify-content-center align-items-center">MADE WITH ❤ BY SANCHI BHALLA</h4>
                         <p className="h3 text-secondary">Github Profile Search</p>
                         
                     </div>
